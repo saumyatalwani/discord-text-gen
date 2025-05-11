@@ -14,14 +14,14 @@ const tooltipTexts = {
 };
 
 const backgroundTooltipTexts = {
-    "40": "Dark Gray Background",
-    "41": "Red Background",
-    "42": "Green Background",
-    "43": "Gold Background",
-    "44": "Blue Background",
-    "45": "Pink Background",
-    "46": "Teal Background",
-    "47": "White Background",
+    "40": "Dark Gray",
+    "41": "Red",
+    "42": "Green",
+    "43": "Gold",
+    "44": "Blue",
+    "45": "Pink",
+    "46": "Teal",
+    "47": "White",
 };
 
 const ansiStyles = {
